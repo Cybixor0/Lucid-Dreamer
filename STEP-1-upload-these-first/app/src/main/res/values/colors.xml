@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Deep indigo night. Also used as the pre-Compose window background. -->
+    <color name="window_background">#FF0B0F1A</color>
+    <color name="ic_launcher_background">#FF141B2E</color>
+</resources>

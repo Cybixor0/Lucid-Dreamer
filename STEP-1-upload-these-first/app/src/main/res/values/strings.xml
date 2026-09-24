@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lucid Dreamer</string>
+
+    <!-- Foreground service notifications -->
+    <string name="cue_playing_title">Playing cue</string>
+    <string name="cue_playing_text">Lucid Dreamer is playing a scheduled cue.</string>
+
+    <string name="session_title">Sleep session running</string>
+    <string name="session_armed_title">Session armed</string>
+    <string name="session_paused_title">Session paused</string>
+    <string name="session_no_cues">No further cues tonight</string>
+
+    <!-- Session notification actions -->
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_skip">Skip next</string>
+    <string name="action_replay">Replay last</string>
+    <string name="action_log_dream">Log dream</string>
+    <string name="action_back_to_bed">Back to bed</string>
+
+    <!-- WBTB -->
+    <string name="wbtb_title">Wake Back To Bed</string>
+    <string name="wbtb_text">Stay up for a while, then tap "Back to bed" to start the cues.</string>
+
+    <!-- Problem reports -->
+    <string name="problem_title">Last night did not run as scheduled</string>
+</resources>
